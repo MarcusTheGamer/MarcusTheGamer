@@ -1,4 +1,7 @@
-### Hi there 👋
+### I'm currently working on something cool in Virtual Circuit Board!
+### I'm currently learning Python, LUA and SQL
+### Ask me about my progress on my projects 
+### Reach out to me if you need help with any of the sofware I use
 
 <!--
 **MarcusTheGamer/MarcusTheGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
