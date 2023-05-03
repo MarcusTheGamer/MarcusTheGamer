@@ -1,4 +1,4 @@
-### I'm currently working on something cool in Virtual Circuit Board!
+### I'm currently working on a cool project in Virtual Circuit Board!
 ### I'm currently learning Python, LUA and SQL
 ### Ask me about my progress on my projects 
 ### Reach out to me if you need help with any of the sofware I use
