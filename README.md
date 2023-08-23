@@ -1,5 +1,5 @@
 ### I'm currently working on a cool project in Virtual Circuit Board!
-### I'm currently learning Python, LUA and SQL!
+### I'm currently learning SQL, C#, HTML and PHP!
 ### Ask me about my progress on my projects if you're excited to check or try it out!
 ### Reach out to me if you need help with any of the sofware I use! I'll do my best to help you :)
 
