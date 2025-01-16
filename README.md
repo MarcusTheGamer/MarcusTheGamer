@@ -1,4 +1,4 @@
-### I'm currently improving my skills in C# via WPF (Windows Presentation Foundation) and Unity.
+### I'm currently learning Unity.
 
 <!--
 **MarcusTheGamer/MarcusTheGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
