@@ -1,6 +1,6 @@
 ### I’m currently working on an Arduino controlled cocktail mixer with my classmate for a school competition!
 
-### As well as a bunch of fun side projects ;)
+### As well as a bunch of fun side projects
 
 <!--
 **MarcusTheGamer/MarcusTheGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
