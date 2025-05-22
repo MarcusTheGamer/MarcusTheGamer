@@ -1,6 +1,6 @@
 ### I’m currently working on improving my Unity skills
 
-### As well as a bunch of other fun side projects
+### As well as a bunch of other fun side projects!
 
 <!--
 **MarcusTheGamer/MarcusTheGamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
